@@ -1,0 +1,84 @@
+body {
+    font-family: Arial- Comic-Sans;
+    margin:0;
+    padding:0;
+    background-color: #ddd
+}
+
+ul {
+    list-style: none;
+    padding:0;
+
+}
+
+header {
+    background-color: beige;
+    color:aliceblue;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.logo img {
+    max-width: 150px;
+    margin-left: 40px;
+
+}
+
+header nav ul {
+    text-align: right;
+    margin-right: 20px;
+
+}
+
+header nav ul li {
+    text-decoration: none;
+    color:aliceblue
+    font-weight: bold;
+
+}
+    
+.jumbotron {
+    background-image: url('Logo.gif');
+    background-size: cover;
+    text-align: center;
+    color:aqua
+    padding: 100px 0;
+    
+}
+
+.jumbotron h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+
+}
+
+.catálogo h2 {
+    font: size 24px;
+    margin-bottom: 20px;
+
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: antiquewhite;
+    color:bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.contactanos {
+    background-color: aquamarine;
+    padding: 20px 0;
+    border-radius: 5px;
+    text-align: left;
+    max-width: auto;
+
+}
+
+
